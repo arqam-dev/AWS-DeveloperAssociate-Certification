@@ -1,4 +1,5 @@
 # AWS-DeveloperAssociate-Certification
+** Paid Content for Free **
 This will contains the content for the developer Associate Certification based on Stephane Maarek and other contents.
 
 
