@@ -1,0 +1,83 @@
+--> Reference: 
+    -> Web: Udemy
+    -> Author: Stephane Maarek
+    -> URL: https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-1461964110910_._li_9076954_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpYZ2VwcSAArsUdj7hxMatZphx-Zvf-RGFRMmdtqaMKnwgYG2dByGkaAtNhEALw_wcB]
+
+-> Services in this course:
+    -> Will cover 30+ AWS services.
+    -> EC2, ECR, ECS, Elastic Beanstalk, Lambda, 
+        Elastic LB, Amazon CloudFront, Kinesis, Route 53, S3, 
+        RDS, Aurora, Dynamo, ElasticCache, SQS, 
+        SNS, Step Functions, Auto Scaling, API GateWay, SES, 
+        Cognito, IAM, CloudWatch, EC2 System Manager, CloudFormation, 
+        CloudTrail, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, 
+        X-Ray, KMS. 
+
+------------------------------ Section 1 - Course Introduction ------------------------------
+
+    General Points:
+        -> IaaS = EC2
+        -> PaaS = Elastic Beanstalk
+        -> FaaS = Lambda
+        -> SaaS = Rekognition
+
+    -> AWS:
+        -> Provide servers and services.
+        -> Clients: Netflix, etc.
+
+------------------------------ Section 2 - Code & Slides Download ------------------------------
+
+    NOTE: I have downloaded the whole content slides. you can see above "AWS Certified Developer Slides v28.pdf"
+
+------------------------------ Section 3 - Getting Started with AWS ------------------------------
+
+    --> AWS Global Infrastructure:
+        -> Regions
+        -> Availability zones
+        -> Data centers
+        -> Edge Locations / Points of Presence
+
+    --> How to choose an AWS Region?
+        -> Compliance
+        -> Proximity - to customers: reduced latency
+        -> Available services 
+        -> Pricing
+
+    --> AWS Availability Zones:
+        -> Each region has many availability zones (usually 3, min is 3, max is 6) like ap-southeast-2a, ap-southeast-2b, etc.
+        -> Each availability zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity.
+        -> They’re connected with high bandwidth, ultra-low latency networking.
+
+------------------------------ Section 4 - IAM & AWS CLI ------------------------------
+
+
+------------------------------ Section 5 - EC2 Fundamentals ------------------------------
+------------------------------ Section 6 - EC2 Instance Storage ------------------------------
+------------------------------ Section 7 - AWS Fundamentals: ELB + ASG ------------------------------
+------------------------------ Section 8 - AWS Fundamentals: RDS + Aurora + ElasticCache ------------------------------
+------------------------------ Section 9 - Route 53 ------------------------------
+------------------------------ Section 10 - VPC Fundamentals ------------------------------
+------------------------------ Section 11 - Elastic S3 Introduction ------------------------------
+------------------------------ Section 12 - AWS CLI, SDK, IAM Roles & Policies ------------------------------
+------------------------------ Section 13 - Advanced Amazon S3 ------------------------------
+------------------------------ Section 14 - Amazon S3 Security ------------------------------
+------------------------------ Section 15 - CloudFront ------------------------------
+------------------------------ Section 16 - ECS, ECR, & Fargate - Docker in AWS ------------------------------
+------------------------------ Section 17 - AWS Elastic Beanstalk ------------------------------
+------------------------------ Section 18 - AWS CloufFormation ------------------------------
+------------------------------ Section 19 - AWS Integration & Messaging: SQS, SNS & Kinesis ------------------------------
+------------------------------ Section 20 - AWS Monitoring & Audit: CloudWAtch, X-Ray and CloudTrail ------------------------------
+------------------------------ Section 21 - AWS Serverless - Lambda ------------------------------
+------------------------------ Section 22 - AWS Serverless - DynammoDB ------------------------------
+------------------------------ Section 23 - AWS Serverless - API Gateway ------------------------------
+------------------------------ Section 24 - AWS CICD: CodeCommits, CodePipeline, CodeBuild, CodeDeploy ------------------------------
+------------------------------ Section 25 - AWS Serverlesss: SAM - Serverless Application Model ------------------------------
+------------------------------ Section 26 - Cloud Development Kit (CDK) ------------------------------
+------------------------------ Section 27 - Cognito: Cognito USer Pools, Cognito Identity Pools & Cognito Sync ------------------------------
+------------------------------ Section 28 - Other Serverless: Step Functions & AppSync ------------------------------
+------------------------------ Section 29 - Advanced Indentity ------------------------------
+------------------------------ Section 30 - AWS Security & Encryption: KMS, Encryption SDK, SSM, Parameter Store, IAM, ... ------------------------------
+------------------------------ Section 31 - AWS Other Services ------------------------------
+------------------------------ Section 32 - AWS Final Cleanup ------------------------------
+------------------------------ Section 33 - Preparing for the Exam - AWS Certified Developer Associate ------------------------------
+------------------------------ Section 34 - Congratulations - AWS Certified Developer Associate ------------------------------
